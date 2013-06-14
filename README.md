@@ -1,7 +1,7 @@
-# Tolk
+# gTolk
 [![Travis](https://secure.travis-ci.org/tolk/tolk.png?branch=master)](http://travis-ci.org/#!/tolk/tolk)
 
-This is now the official tolk repository.
+Custom version of Tolk which utilizes Google Translate during copy action. (Left arrow in translation form)
 
 Tolk is a Rails 3 engine designed to facilitate the translators doing the dirty work of translating your application to other languages.
 
